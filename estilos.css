@@ -6,6 +6,9 @@
 /* Carrusel */
 .text-carrusel {
     position: absolute;
+    align-self: flex-end;
+    margin-bottom: 15%;
+    margin-left: 60%;
     color: white;
     height: 200px;
     width: 500px;
